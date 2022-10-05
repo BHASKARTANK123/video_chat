@@ -1,0 +1,52 @@
+
+
+#MainMenu{
+display:flex;
+/* border: 1px solid red; */
+justify-content: space-between;
+align-items: center;
+background-color: #ABD699;
+}
+
+
+#Zrologo{
+/* border: 1px solid green; */
+margin-left: 3rem;
+height: 50%;
+
+}
+
+#Zrologo img{
+    
+    height: 5em;
+    width: 7em;
+    
+    }
+#MenuBar{
+    display:flex;
+    list-style: none;
+
+
+}
+
+#Signup{
+    margin-right: 3rem;
+    background-color: #FFE26A;
+    height: 3rem;
+    width: 7rem;
+    border: none;
+    border-radius: 1.5rem;
+    font-family: Inter;
+    font-size: 1rem;
+    font-weight: bold;
+
+
+}
+
+#MenuBar li{
+   margin: 1rem;
+    
+
+}
+
+
